@@ -1,2 +1,9 @@
-# houseblocks_1.12.2
-Port of Houseblocks for Minecraft 1.12.2
+<img src="https://i.imgur.com/JigBCGw.png" alt="alt text" width="600">
+<b>A simple mod that adds modern building blocks for houses into Minecraft</b>
+<hr>
+
+<b>For Minecraft 1.12.2</b> <br>
+<i>For the 1.7.10 version, please see the Houseblocks repository</i>
+
+This mod adds in modern decorative blocks for people who wish to build more-colorful houses.
+<b>1.12.2 Screenshots Coming Soon</b>
